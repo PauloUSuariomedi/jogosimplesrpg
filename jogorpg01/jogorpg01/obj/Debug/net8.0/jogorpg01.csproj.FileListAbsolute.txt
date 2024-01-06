@@ -1,0 +1,14 @@
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\jogorpg01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\jogorpg01.AssemblyInfoInputs.cache
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\jogorpg01.AssemblyInfo.cs
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\jogorpg01.csproj.CoreCompileInputs.cache
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\bin\Debug\net8.0\jogorpg01.exe
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\bin\Debug\net8.0\jogorpg01.deps.json
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\bin\Debug\net8.0\jogorpg01.runtimeconfig.json
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\bin\Debug\net8.0\jogorpg01.dll
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\bin\Debug\net8.0\jogorpg01.pdb
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\jogorpg01.dll
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\refint\jogorpg01.dll
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\jogorpg01.pdb
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\jogorpg01.genruntimeconfig.cache
+C:\Users\lokom\source\repos\jogorpg01\jogorpg01\obj\Debug\net8.0\ref\jogorpg01.dll
